@@ -1,0 +1,1 @@
+export const playArrowIcon = '<svg width="10" height="10" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="5" cy="5" r="5" fill="#fff"/><path d="M3.667 3.273v3.454c0 .263.29.423.513.28L6.893 5.28a.333.333 0 0 0 0-.563L4.18 2.993a.333.333 0 0 0-.513.28Z" fill="#86CDFF"/></svg>'

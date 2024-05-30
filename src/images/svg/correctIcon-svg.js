@@ -1,0 +1,1 @@
+export const correctIcon = '<svg width="20" height="14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="m2 7 5.25 5.25 10.5-10.5" stroke="#1AB900" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>'

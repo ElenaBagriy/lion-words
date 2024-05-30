@@ -1,0 +1,2 @@
+export const youtube =
+  '<svg width="30" height="30" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#a)"><path d="M15 30c8.284 0 15-6.716 15-15 0-8.284-6.716-15-15-15C6.716 0 0 6.716 0 15c0 8.284 6.716 15 15 15z" fill="red"/><path d="M19.909 9.357H10.09a2.986 2.986 0 0 0-2.986 2.988v5.31a2.986 2.986 0 0 0 2.986 2.988h9.818a2.986 2.986 0 0 0 2.986-2.989v-5.309a2.986 2.986 0 0 0-2.986-2.988zm-6.99 8.063v-4.84L17.08 15l-4.16 2.42z" fill="#fff"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h30v30H0z"/></clipPath></defs></svg>';

@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "lion-words-app",
+    "slug": "lion-words-app",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c303b9d9-7ce9-4646-8e8e-9d75dd0836c4"
+      }
+    },
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "./src/fonts/Poppins/Poppins-Light.ttf",
+            "./src/fonts/Poppins/Poppins-Medium.ttf",
+            "./src/fonts/Poppins/Poppins-Regular.ttf",
+            "./src/fonts/Poppins/Poppins-SemiBold.ttf",
+            "./src/fonts/Poppins/Poppins-Bold.ttf"
+          ]
+        }
+      ]
+    ],
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.bahrii.lionwordsapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bahrii.lionwordsapp"
+    }
+  }
+}
